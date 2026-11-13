@@ -1,5 +1,5 @@
 public abstract class Transport {
-    private String model;
+     String model;
 
     public Transport(String model) {
         this.model = model;
